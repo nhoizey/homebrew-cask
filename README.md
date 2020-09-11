@@ -1,4 +1,4 @@
-# My own taps for Homebrew
+# My own tap for Homebrew Casks
 
 [Homebrew](https://brew.sh/) is The Missing Package Manager for macOS (or Linux).
 
@@ -11,7 +11,7 @@ That's why I created my own tap, right here.
 ## Add the tap
 
 ```bash
-brew tap nhoizey/taps
+brew tap nhoizey/cask
 ```
 
 ## Install one of the available formula
