@@ -6,7 +6,7 @@ Add the tap:
 brew tap nhoizey/taps
 ```
 
-Install one of the available formula/cask:
+Install one of the available formula and [casks](./Casks/):
 
 ```bash
 brew cask install subsmarine
